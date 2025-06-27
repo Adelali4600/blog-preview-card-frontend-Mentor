@@ -91,6 +91,7 @@ main {
     margin: 10px;
 }
 
+/* Responsive Design */
 @media (width:1440px) {
     .card {
         width: 400px;
